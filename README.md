@@ -1,17 +1,10 @@
 # About
 # Me
-I'm originally from Dallas, TX and completing graduating from the New York City College of Technology in December 2023 with a B.S. in Data Science and a minor in Physics. Over the course of my educational career, I've become particularly interested in NLP, Data Visualization, and Machine Learning, especially as it relates to phyiscs and astronomy. I've found that each time I dive into a new project, I'm fascinated by new codes, motivated by challenges, and excellent at teachning myself the necessary skills for individual project goals. Although I'm just beginning my professional career, my academic perfomance reflects my eagerness to take projects and assignments to higher levels of complexity and performance that I'm excited to apply to future career placements. 
+I am a student from the New York City College of Technology, majoring in Data Science with a particular interest in NLP, Data Visualization, and Machine Learning. Throughout my academic career, I have been driven by my fascination with new codes, motivated by challenges, and excellent at teaching myself the necessary skills to achieve individual project goals. I am excited to apply these qualities to my future career placements.
 
-I have passions for physics and astronomy, conservation, sustainability, and politics that often drive the datasets I choose to work with. These fields inspired me to pursue Data Science, as opposed to a more traditional Computer Science. We have more data than ever, and I believe that data has the power to change our systems and society for the better if we can figure out how to analyze, build on, and communicate it effectively. 
+My passions for physics and astronomy, conservation, sustainability, and politics have always been a driving force in the datasets I choose to work with. These fields inspired me to pursue Data Science, as opposed to a more traditional Computer Science path. I firmly believe that the vast amount of data available can have a positive impact on our systems and society, if we can figure out how to analyze, build on, and communicate it effectively. As a result, I am eager to take on new challenges that can help to achieve these goals.
 
 # Technical Skills
+ I am proficient in various platforms and programming languages, with a particular preference for Python when working on machine learning projects. My portfolio reflects my expertise in Python and its libraries, such as Pandas, Numpy, Scikit, Seaborn, Matplotlib, Astropy, Sklearn, Folium, among others.
 
-My education and personal research has exposed me to a variety of platforms and languages. I currently prefer Python for machine learning projects, as you'll see reflected in my portfolio.
-
-- Python (Including Pandas, Numpy, Scikit, Seaborn, Matplotlib, Astropy, Sklearn, Folium, etc.)
-- Java (Including GUI applications)
-- HTML/CSS/JavaScript
-- R
-- Microsoft Office
-- Photoshop and Canva
-
+Additionally, I am knowledgeable in Java, including developing GUI applications, as well as web development technologies like HTML/CSS/JavaScript. My proficiency in R and Microsoft Office enables me to perform statistical analysis and data management tasks. I am also skilled in using Photoshop and Canva for graphic design purposes. My diverse skill set enables me to approach projects with a holistic perspective and deliver exceptional results.
